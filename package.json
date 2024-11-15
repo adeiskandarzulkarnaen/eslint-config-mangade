@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-mangade",
+  "version": "1.0.0",
+  "description": "Custom style and guide for writing JavaScript",
+  "main": "./src/index.js",
+  "scripts": {},
+  "keywords": [
+    "javascript",
+    "style",
+    "guide",
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "adeiskandarzulkarnaen",
+  "license": "ISC",
+  "homepage": "https://github.com/adeiskandarzulkarnaen/eslint-config-mangade#readme",
+  "peerDependencies": {
+    "eslint": ">= 8"
+  }
+}
